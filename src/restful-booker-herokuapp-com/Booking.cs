@@ -44,7 +44,7 @@ namespace RestfulBooker
         #endregion
 
         #region Test Cases or Methods for Booker API
-        [Test, NUnit.Framework.Category("Post")]
+        [Test ,Category("Post")]
         public async Task NewBooking()
         {
             try
