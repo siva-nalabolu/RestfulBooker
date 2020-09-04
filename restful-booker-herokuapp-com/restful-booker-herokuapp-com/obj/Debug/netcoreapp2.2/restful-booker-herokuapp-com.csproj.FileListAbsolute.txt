@@ -1,0 +1,15 @@
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\restful-booker-herokuapp-com.deps.json
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\restful-booker-herokuapp-com.runtimeconfig.json
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\restful-booker-herokuapp-com.runtimeconfig.dev.json
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\restful-booker-herokuapp-com.dll
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\bin\Debug\netcoreapp2.2\restful-booker-herokuapp-com.pdb
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.csprojAssemblyReference.cache
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.AssemblyInfoInputs.cache
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.AssemblyInfo.cs
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.dll
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.pdb
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.genruntimeconfig.cache
+C:\Users\H125065\Documents\restful-booker-herokuapp.com\restful-booker-herokuapp-com\restful-booker-herokuapp-com\obj\Debug\netcoreapp2.2\restful-booker-herokuapp-com.csproj.CoreCompileInputs.cache
