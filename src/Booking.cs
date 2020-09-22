@@ -18,7 +18,7 @@ namespace RestfulBooker
         HttpClient client = new HttpClient();
 
         #region Request and Response Methods
-       
+
         public class AuthResponse
         {
             public string token { get; set; }
@@ -48,9 +48,9 @@ namespace RestfulBooker
         #endregion
         #region SetUp and Tear Down Method 
         [SetUp]
-        public async Task SetupAsync()
+        public void Setup()
         {
-            // await Auth_Token();
+            
         }
 
         [TearDown]
@@ -102,7 +102,7 @@ namespace RestfulBooker
                 var stringContent = new StringContent(body, Encoding.UTF8, "application/json");
                 var client = new HttpClient();
                 HttpResponseMessage response = await client.PostAsync(url, stringContent);
-                Assert.AreEqual(HttpStatusCode.OK, response.StatusCode,"New Booking Not Created");
+                Assert.AreEqual(HttpStatusCode.OK, response.StatusCode, "New Booking Not Created");
                 Console.WriteLine(response.Content.ReadAsStringAsync().Result);
             }
             catch (Exception ex)
@@ -125,7 +125,7 @@ namespace RestfulBooker
                 HttpResponseMessage response = await client.GetAsync(url);
                 Console.WriteLine(response.Content.ReadAsStringAsync().Result.ToString());
                 List<Bookings> AllBokings = JsonConvert.DeserializeObject<List<Bookings>>(response.Content.ReadAsStringAsync().Result);
-                Assert.AreEqual(HttpStatusCode.OK, response.StatusCode ,"Expected Status code not Returned");
+                Assert.AreEqual(HttpStatusCode.OK, response.StatusCode, "Expected Status code not Returned");
                 foreach (var booking in AllBokings)
                 {
                     Assert.IsNotNull(booking.bookingid);
@@ -138,6 +138,10 @@ namespace RestfulBooker
             }
         }
 
+        /// <summary>
+        /// Get A Specific Booking Detail -- in this case Booking Id : 1
+        /// </summary>
+        /// <returns>Gets the Deatils of Specific Booking</returns>
         [Test]
         public async Task Get_a_Booking()
         {
